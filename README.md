@@ -6,8 +6,10 @@ Listing Publisher is a private tool operated by Adam Ben Shoham to publish real-
 
 **What it stores:** the published post IDs and links, locally on the operator's computer. Listing photos are held temporarily in private cloud storage during publishing and deleted afterwards.
 
-**What it does not do:** no data is sold or shared with third parties, and no data is collected from viewers of the posts.
+**What it does not do:** no data is sold or shared with third parties, and nothing is collected from people who see the posts, except what they choose to send through a lead form (below).
+
+**Lead forms:** some ads include a form where people can ask about a listing. What you enter (name, phone, email, and which listing) goes to the realtor named in the ad, who will contact you about that property, and to Adam Ben Shoham, who runs the ads for them. It is kept in private cloud storage (Cloudflare) and shown only to that realtor on a private, code-protected page. It is never sold or used for anything else, and it is deleted after 12 months, or sooner if you ask at mada20942@gmail.com.
 
 **Data deletion:** a client can request removal of stored post records at any time by emailing mada20942@gmail.com.
 
-Last updated: 16 September 2026
+Last updated: 19 October 2026
